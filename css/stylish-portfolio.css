@@ -201,7 +201,6 @@ hr.small {
 
 .portfolio-item {
     margin-bottom: 30px;
-    float:left;
 }
 
 .img-portfolio {
@@ -212,11 +211,6 @@ hr.small {
     opacity: 0.8;
 }
 
-.txt-portfolio {
-    margin-bottom: 30px;
-    float:right;
-    text-align:left;
-}
 
 /* Call to Action */
 
