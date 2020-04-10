@@ -211,6 +211,11 @@ hr.small {
     opacity: 0.8;
 }
 
+.portfolio-txt {
+    margin-bottom: 30px;
+    text-align:left;
+}
+
 
 /* Call to Action */
 
