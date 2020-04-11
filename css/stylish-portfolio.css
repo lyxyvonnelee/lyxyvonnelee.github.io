@@ -169,6 +169,15 @@ hr.small {
     padding: 50px 0;
 }
 
+#myphoto {
+    height: 250px;
+    width: 250px;
+    -webkit-border-radius: 125px;
+    -moz-border-radius: 125px;
+    border-radius: 125px;
+    background-color: #fff;
+}   
+
 /* Services */
 
 .services {
