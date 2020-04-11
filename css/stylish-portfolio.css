@@ -216,9 +216,10 @@ hr.small {
     padding: 0;
     margin-top: 0;
     margin-bottom: 30px;
-    text-align:left;
+    text-align: justify;
     height: 250px;
-    font-size: 24px;
+    font-size: 22px;
+    overflow: auto;
 }
 
 
