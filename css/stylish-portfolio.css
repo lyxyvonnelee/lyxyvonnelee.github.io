@@ -214,9 +214,11 @@ hr.small {
 
 .portfolio-txt {
     padding: 0;
+    margin-top: 0;
     margin-bottom: 30px;
     text-align:left;
     height: 250px;
+    font-size: 24px;
 }
 
 
