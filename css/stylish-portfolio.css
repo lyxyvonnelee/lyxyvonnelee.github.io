@@ -177,6 +177,7 @@ hr.small {
     border-radius: 125px;
     background-color: #fff;
     margin: 20px auto;
+    overflow: hidden;
 }   
 
 /* Services */
