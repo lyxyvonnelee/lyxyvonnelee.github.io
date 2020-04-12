@@ -29,6 +29,11 @@ body {
     font-weight: 700;
 }
 
+.heads {
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
