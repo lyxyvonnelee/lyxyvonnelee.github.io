@@ -168,22 +168,21 @@ hr.small {
     -o-background-size: cover;
 }
 
+.myphoto {
+    height: 100%;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}   
+
 /* About */
 
 .about {
     padding: 50px 0;
 }
 
-#myphoto {
-    height: 100%;
-    width: 50%;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-    background-color: #fff;
-    margin: 0;
-    overflow: hidden;
-}   
+
 
 /* Services */
 
