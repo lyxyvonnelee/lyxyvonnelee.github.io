@@ -195,6 +195,14 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.skills {
+    width: 25%;
+    height: 250px;
+    float: left;
+    margin: 0;
+    padding: 20px 0;
+}
+
 /* Callout */
 
 .callout {
