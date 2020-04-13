@@ -169,8 +169,9 @@ hr.small {
 }
 
 .myphoto {
+    display: table;
     height: 100%;
-    width: 50%;
+    width: 70%;
     float: right;
 }   
 
