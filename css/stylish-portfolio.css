@@ -227,7 +227,8 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
-    height: 250px;
+    height: 300px;
+    width: 500px;
 }
 
 .img-portfolio:hover {
@@ -239,7 +240,7 @@ hr.small {
     margin-top: 0;
     margin-bottom: 30px;
     text-align: justify;
-    height: 250px;
+    height: 300px;
     font-size: 22px;
     overflow: auto;
 }
